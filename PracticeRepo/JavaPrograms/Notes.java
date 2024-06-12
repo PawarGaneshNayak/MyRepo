@@ -1,5 +1,4 @@
-Heeloo world 
-Hello world		
+package usage;		
 class Public 
 {
     public static void main(String[] args){
