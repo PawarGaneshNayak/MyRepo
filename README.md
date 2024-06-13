@@ -1,1 +1,1 @@
-# Hello People
+# Practice Repository
