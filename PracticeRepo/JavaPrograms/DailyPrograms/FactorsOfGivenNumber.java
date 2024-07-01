@@ -7,7 +7,8 @@ Ex: num = 20;
 4
 5
 10
-20    */
+20   
+A factor is a number that divides the given number without any remainder */
 
   public class FactorsOfGivenNumber
   {
